@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AC5CE7DA-819D-4C87-903A-21F9D82F4B6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tutorial5/Services/SqlServerStudentDbService.cs">
+    <Files>
+      <File FileName="tutorial5/Controllers/EnrollmentsController.cs" Line="1" Column="1" />
+      <File FileName="tutorial5/Models/Enrollment.cs" Line="1" Column="1" />
+      <File FileName="tutorial5/Models/Student.cs" Line="1" Column="1" />
+      <File FileName="tutorial5/Properties/launchSettings.json" />
+      <File FileName="tutorial5/Services/IStudentsDbService.cs" Line="1" Column="1" />
+      <File FileName="tutorial5/Services/SqlServerStudentDbService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tutorial5" expanded="True">
+            <Node name="tutorial5" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="SqlServerStudentDbService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tutorial5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
